@@ -5,5 +5,8 @@ public class employee {
     private String name;
     private Integer age;
     private String sex;
+    private String address;
+    private String phone;
+    private String email;
 
 }
